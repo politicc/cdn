@@ -1,0 +1,32 @@
+#!/bin/bash
+# declare an array called array and define 3 vales
+# array=(
+# "http://static.squarespace.com/universal/styles-compressed/announcement-bar-d41d8cd98f00b204e9800998ecf8427e-min.css"
+# "http://static.squarespace.com/universal/styles-compressed/audio-player-e1b486594965430889af24c93ffeb509-min.css"
+# "http://static.squarespace.com/universal/styles-compressed/blog-collection-list-d41d8cd98f00b204e9800998ecf8427e-min.css"
+# "http://static.squarespace.com/universal/styles-compressed/calendar-block-renderer-bba726056d2134131ce9d3077c28adbe-min.css"
+# "http://static.squarespace.com/universal/styles-compressed/chartjs-helpers-9935a41d63cf08ca108505d288c1712e-min.css"
+# "http://static.squarespace.com/universal/styles-compressed/comments-228a7276f159133cc3ea801187c348fa-min.css"
+# "http://static.squarespace.com/universal/styles-compressed/dialog-aba41cb3c0853ecd2e2fb2303806d950-min.css"
+# "http://static.squarespace.com/universal/styles-compressed/events-collection-bba726056d2134131ce9d3077c28adbe-min.css"
+# "http://static.squarespace.com/universal/styles-compressed/gallery-collection-list-d41d8cd98f00b204e9800998ecf8427e-min.css"
+# "http://static.squarespace.com/universal/styles-compressed/image-zoom-ae974921915aeccaff8ad60c60e19c31-min.css"
+# "http://static.squarespace.com/universal/styles-compressed/pinterest-d41d8cd98f00b204e9800998ecf8427e-min.css"
+# "http://static.squarespace.com/universal/styles-compressed/popup-overlay-b5d0993c85a2b5a604d02091b6b86723-min.css"
+# "http://static.squarespace.com/universal/styles-compressed/product-quick-view-e115b32dc09c37fe6f7e98f568e08b74-min.css"
+# "http://static.squarespace.com/universal/styles-compressed/products-collection-item-v2-ae974921915aeccaff8ad60c60e19c31-min.css"
+# "http://static.squarespace.com/universal/styles-compressed/products-collection-list-v2-ae974921915aeccaff8ad60c60e19c31-min.css"
+# "http://static.squarespace.com/universal/styles-compressed/search-page-9c747eeaabe96dacfea4932a63336f54-min.css"
+# "http://static.squarespace.com/universal/styles-compressed/simple-liking-09fa291ec2800c97714f0d157fd0a6ca-min.css"
+# "http://static.squarespace.com/universal/styles-compressed/social-buttons-7a696232d1cd101fd62b5f174f9ae6ff-min.css"
+# "http://static.squarespace.com/universal/styles-compressed/tourdates-d41d8cd98f00b204e9800998ecf8427e-min.css"
+# "http://static.squarespace.com/universal/styles-compressed/website-overlays-manager-d1b0ace5f5af772d643f5a6ce0056946-min.css"
+# )
+# array=(\${!$1})
+array=("$@")
+for i in "${array[@]}"
+do
+	echo $i
+	#  wget -T $TOUT -q $dl -O $file
+	# wget $i -P styles/
+done
