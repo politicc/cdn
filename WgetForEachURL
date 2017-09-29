@@ -1,16 +1,25 @@
 #!/bin/bash
 # declare an array called array and define 3 vale
 array=(
+"https://politi.cc/assets/ui-icons.svg#hamburger-icon--even"
+"https://politi.cc/assets/ui-icons.svg#hamburger-icon--odd"
+"https://politi.cc/assets/ui-icons.svg#hotdog-icon--even"
+"https://politi.cc/assets/ui-icons.svg#hotdog-icon--odd"
+"https://politi.cc/assets/ui-icons.svg#plus-icon--even"
+"https://politi.cc/assets/ui-icons.svg#plus-icon--odd"
+"https://politi.cc/assets/ui-icons.svg#dots-horizontal-icon--even"
+"https://politi.cc/assets/ui-icons.svg#dots-horizontal-icon--odd"
+"https://politi.cc/assets/ui-icons.svg#dots-vertical-icon--even"
+"https://politi.cc/assets/ui-icons.svg#dots-vertical-icon--odd"
+"https://politi.cc/assets/ui-icons.svg#squares-horizontal-icon--even"
+"https://politi.cc/assets/ui-icons.svg#squares-horizontal-icon--odd"
+"https://politi.cc/assets/ui-icons.svg#squares-vertical-icon--even"
+"https://politi.cc/assets/ui-icons.svg#squares-vertical-icon--odd"
+"https://politi.cc/assets/ui-icons.svg#search-icon"
+"https://politi.cc/assets/ui-icons.svg#close-icon"
+"https://politi.cc/assets/ui-icons.svg#search-icon--small"
+"https://politi.cc/assets/ui-icons.svg#search-icon"
 
-"http://static1.squarespace.com/static/sitecss/59711f5703596ed825d63235/5/597146f4be659413a6a96f20/597146f5be659413a6a96f23/0-05142015/1506449772620/site.css?&filterFeatures=false&part=1"
-"http://static1.squarespace.com/static/sitecss/59711f5703596ed825d63235/5/597146f4be659413a6a96f20/597146f5be659413a6a96f23/0-05142015/1506449772620/site.css?&filterFeatures=false&part=2"
-"http://static1.squarespace.com/static/sitecss/59711f5703596ed825d63235/5/597146f4be659413a6a96f20/597146f5be659413a6a96f23/0-05142015/1506449772620/site.css?&filterFeatures=false&part=3"
-"http://static1.squarespace.com/static/sitecss/59711f5703596ed825d63235/5/597146f4be659413a6a96f20/597146f5be659413a6a96f23/0-05142015/1506449772620/site.css?&filterFeatures=false&part=4"
-
-"http://static1.squarespace.com/static/sitecss/59711f5703596ed825d63235/5/597146f4be659413a6a96f20/597146f5be659413a6a96f23/0-05142015/1506449772620/site.css?&filterFeatures=false&noMedia=true&part=1"
-"http://static1.squarespace.com/static/sitecss/59711f5703596ed825d63235/5/597146f4be659413a6a96f20/597146f5be659413a6a96f23/0-05142015/1506449772620/site.css?&filterFeatures=false&noMedia=true&part=2"
-"http://static1.squarespace.com/static/sitecss/59711f5703596ed825d63235/5/597146f4be659413a6a96f20/597146f5be659413a6a96f23/0-05142015/1506449772620/site.css?&filterFeatures=false&noMedia=true&part=3"
-"http://static1.squarespace.com/static/sitecss/59711f5703596ed825d63235/5/597146f4be659413a6a96f20/597146f5be659413a6a96f23/0-05142015/1506449772620/site.css?&filterFeatures=false&noMedia=true&part=4"
 
 )
 
@@ -20,5 +29,6 @@ do
 	echo $i
 	#  wget -T $TOUT -q $dl -O $file
 	# wget $i -P scripts/
-	wget $i -P styles/
+	# wget $i -P styles/
+	wget $i -P icons/site/
 done
