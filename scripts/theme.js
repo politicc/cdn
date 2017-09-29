@@ -344,7 +344,7 @@ export default StyleSheet.create({
         "width": "300px !important",
         "height": "300px !important"
     },
-    "squarespace-signup-text": {
+    "tight-signup-text": {
         "fontFamily": "'proxima-nova','Helvetica Neue',Helvetica,Arial,sans-serif",
         "color": "#fff",
         "width": 300,
@@ -354,11 +354,11 @@ export default StyleSheet.create({
         "fontSize": 15,
         "paddingBottom": 100
     },
-    "squarespace-signup-text join-thank-you": {
+    "tight-signup-text join-thank-you": {
         "fontWeight": "bold",
         "paddingBottom": 20
     },
-    "squarespace-signup-spinner": {
+    "tight-signup-spinner": {
         "background": "transparent url('//static.squarespace.com/universal/images-v6/big-gear.png') center center no-repeat",
         "width": "300px !important",
         "height": "220px !important",
@@ -375,13 +375,13 @@ export default StyleSheet.create({
         "OAnimationName": "spin-frames",
         "animationName": "spin-frames"
     },
-    "squarespace-signup-spinnerstopped": {
+    "tight-signup-spinnerstopped": {
         "WebkitAnimationName": "stopped",
         "MozAnimationName": "stopped",
         "OAnimationName": "stopped",
         "animationName": "stopped"
     },
-    "sqs-lightboxlight squarespace-signup-text": {
+    "sqs-lightboxlight tight-signup-text": {
         "font": "12px / 22px 'Gotham SSm A','Gotham SSm B','Gotham SSm','Proxima Nova','Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif !important",
         "backgroundColor": "transparent !important",
         "letterSpacing": "0 !important",
@@ -400,7 +400,7 @@ export default StyleSheet.create({
         "paddingLeft": "!important",
         "textTransform": "none !important"
     },
-    "sqs-lightboxlight squarespace-signup-spinner": {
+    "sqs-lightboxlight tight-signup-spinner": {
         "background": "transparent url('//static.squarespace.com/universal/images-v6/big-gear-dark.png') center center no-repeat"
     },
     "sqs-g": {
@@ -2963,28 +2963,28 @@ export default StyleSheet.create({
         "width": "100%"
     },
     "sqs-ui-font-family": {
-        "fontFamily": "'squarespace-ui-font'",
+        "fontFamily": "'tight-ui-font'",
         "fontStyle": "normal",
         "speak": "none",
         "fontWeight": "normal",
         "WebkitFontSmoothing": "antialiased"
     },
     "[class^=\"sqs-ui-font-\"]:before": {
-        "fontFamily": "'squarespace-ui-font'",
+        "fontFamily": "'tight-ui-font'",
         "fontStyle": "normal",
         "speak": "none",
         "fontWeight": "normal",
         "WebkitFontSmoothing": "antialiased"
     },
     "[class*=\" sqs-ui-font-\"]:before": {
-        "fontFamily": "'squarespace-ui-font'",
+        "fontFamily": "'tight-ui-font'",
         "fontStyle": "normal",
         "speak": "none",
         "fontWeight": "normal",
         "WebkitFontSmoothing": "antialiased"
     },
     "[data-icon]:before": {
-        "fontFamily": "'squarespace-ui-font'",
+        "fontFamily": "'tight-ui-font'",
         "fontStyle": "normal",
         "speak": "none",
         "fontWeight": "normal",
@@ -3050,7 +3050,7 @@ export default StyleSheet.create({
         "color": "#fff"
     },
     "sqs-gallery-controls previous:before": {
-        "fontFamily": "'squarespace-ui-font'",
+        "fontFamily": "'tight-ui-font'",
         "fontStyle": "normal",
         "speak": "none",
         "fontWeight": "normal",
@@ -3065,7 +3065,7 @@ export default StyleSheet.create({
         "lineHeight": 24
     },
     "sqs-gallery-controls next:before": {
-        "fontFamily": "'squarespace-ui-font'",
+        "fontFamily": "'tight-ui-font'",
         "fontStyle": "normal",
         "speak": "none",
         "fontWeight": "normal",
@@ -3216,7 +3216,7 @@ export default StyleSheet.create({
         "cursor": "pointer"
     },
     "sqs-gallery-design-carousel sqs-gallery-controls next:before": {
-        "fontFamily": "'squarespace-ui-font'",
+        "fontFamily": "'tight-ui-font'",
         "fontStyle": "normal",
         "speak": "none",
         "fontWeight": "normal",
@@ -3231,7 +3231,7 @@ export default StyleSheet.create({
         "lineHeight": 16
     },
     "sqs-gallery-design-carousel sqs-gallery-controls previous:before": {
-        "fontFamily": "'squarespace-ui-font'",
+        "fontFamily": "'tight-ui-font'",
         "fontStyle": "normal",
         "speak": "none",
         "fontWeight": "normal",
@@ -3497,7 +3497,7 @@ export default StyleSheet.create({
         "opacity": 1
     },
     "yui3-lightbox2 sqs-lightbox-next:before": {
-        "fontFamily": "'squarespace-ui-font'",
+        "fontFamily": "'tight-ui-font'",
         "fontStyle": "normal",
         "speak": "none",
         "fontWeight": "normal",
@@ -3512,7 +3512,7 @@ export default StyleSheet.create({
         "lineHeight": 32
     },
     "yui3-lightbox2 sqs-lightbox-previous:before": {
-        "fontFamily": "'squarespace-ui-font'",
+        "fontFamily": "'tight-ui-font'",
         "fontStyle": "normal",
         "speak": "none",
         "fontWeight": "normal",
@@ -3533,7 +3533,7 @@ export default StyleSheet.create({
         "fontSize": 22
     },
     "yui3-lightbox2 sqs-lightbox-close:before": {
-        "fontFamily": "'squarespace-ui-font'",
+        "fontFamily": "'tight-ui-font'",
         "fontStyle": "normal",
         "speak": "none",
         "fontWeight": "normal",
@@ -3573,7 +3573,7 @@ export default StyleSheet.create({
         "width": "48%"
     },
     "list-paging anewer pagination-icon:before": {
-        "fontFamily": "'squarespace-ui-font'",
+        "fontFamily": "'tight-ui-font'",
         "fontStyle": "normal",
         "speak": "none",
         "fontWeight": "normal",
@@ -3588,7 +3588,7 @@ export default StyleSheet.create({
         "lineHeight": 16
     },
     "item-paging anewer pagination-icon:before": {
-        "fontFamily": "'squarespace-ui-font'",
+        "fontFamily": "'tight-ui-font'",
         "fontStyle": "normal",
         "speak": "none",
         "fontWeight": "normal",
@@ -3603,7 +3603,7 @@ export default StyleSheet.create({
         "lineHeight": 16
     },
     "list-paging aolder pagination-icon:after": {
-        "fontFamily": "'squarespace-ui-font'",
+        "fontFamily": "'tight-ui-font'",
         "fontStyle": "normal",
         "speak": "none",
         "fontWeight": "normal",
@@ -3618,7 +3618,7 @@ export default StyleSheet.create({
         "lineHeight": 16
     },
     "item-paging aolder pagination-icon:after": {
-        "fontFamily": "'squarespace-ui-font'",
+        "fontFamily": "'tight-ui-font'",
         "fontStyle": "normal",
         "speak": "none",
         "fontWeight": "normal",
@@ -3698,11 +3698,11 @@ export default StyleSheet.create({
         "display": "inline-block",
         "verticalAlign": "middle"
     },
-    "like-share squarespace-social-buttons": {
+    "like-share tight-social-buttons": {
         "display": "inline-block",
         "marginRight": 0.5
     },
-    "like-share squarespace-social-buttons ss-social-button-icon": {
+    "like-share tight-social-buttons ss-social-button-icon": {
         "float": "none",
         "display": "inline-block",
         "verticalAlign": "middle"
@@ -4005,7 +4005,7 @@ export default StyleSheet.create({
     "sqs-audio-playlist track-info artist": {
         "color": "rgba(0,0,0,.5)"
     },
-    "hide-album-share-link sqs-audio-playlist squarespace-social-buttons": {
+    "hide-album-share-link sqs-audio-playlist tight-social-buttons": {
         "display": "none"
     },
     "tweak-blog-list-title-font": {
@@ -5724,7 +5724,7 @@ export default StyleSheet.create({
         "left": -2
     },
     "event-icons eventlist-meta-itemeventlist-meta-date:before": {
-        "fontFamily": "'squarespace-ui-font'",
+        "fontFamily": "'tight-ui-font'",
         "fontStyle": "normal",
         "speak": "none",
         "fontWeight": "normal",
@@ -5739,7 +5739,7 @@ export default StyleSheet.create({
         "lineHeight": 16
     },
     "event-icons eventlist-meta-itemeventlist-meta-time:before": {
-        "fontFamily": "'squarespace-ui-font'",
+        "fontFamily": "'tight-ui-font'",
         "fontStyle": "normal",
         "speak": "none",
         "fontWeight": "normal",
@@ -5754,7 +5754,7 @@ export default StyleSheet.create({
         "lineHeight": 16
     },
     "event-icons eventlist-meta-itemeventlist-meta-address:before": {
-        "fontFamily": "'squarespace-ui-font'",
+        "fontFamily": "'tight-ui-font'",
         "fontStyle": "normal",
         "speak": "none",
         "fontWeight": "normal",
@@ -5859,7 +5859,7 @@ export default StyleSheet.create({
         "marginRight": 1.2
     },
     "eventlist-actions sqs-simple-like like-count:before": {
-        "fontFamily": "'squarespace-ui-font'",
+        "fontFamily": "'tight-ui-font'",
         "fontStyle": "normal",
         "speak": "none",
         "fontWeight": "normal",
@@ -5880,7 +5880,7 @@ export default StyleSheet.create({
         "display": "none"
     },
     "eventlist-actions ss-social-button:before": {
-        "fontFamily": "'squarespace-ui-font'",
+        "fontFamily": "'tight-ui-font'",
         "fontStyle": "normal",
         "speak": "none",
         "fontWeight": "normal",
@@ -6019,7 +6019,7 @@ export default StyleSheet.create({
         "marginRight": 1.2
     },
     "event-meta-socialicon-container sqs-simple-like like-count:before": {
-        "fontFamily": "'squarespace-ui-font'",
+        "fontFamily": "'tight-ui-font'",
         "fontStyle": "normal",
         "speak": "none",
         "fontWeight": "normal",
@@ -6040,7 +6040,7 @@ export default StyleSheet.create({
         "display": "none"
     },
     "event-meta-socialicon-container ss-social-button:before": {
-        "fontFamily": "'squarespace-ui-font'",
+        "fontFamily": "'tight-ui-font'",
         "fontStyle": "normal",
         "speak": "none",
         "fontWeight": "normal",
@@ -6222,7 +6222,7 @@ export default StyleSheet.create({
         "display": "inline"
     },
     "collection-type-gallery:not(gallery-design-grid) arrowprevious-slide:before": {
-        "fontFamily": "'squarespace-ui-font'",
+        "fontFamily": "'tight-ui-font'",
         "fontStyle": "normal",
         "speak": "none",
         "fontWeight": "normal",
@@ -6237,7 +6237,7 @@ export default StyleSheet.create({
         "lineHeight": 40
     },
     "collection-type-gallery:not(gallery-design-grid) arrownext-slide:before": {
-        "fontFamily": "'squarespace-ui-font'",
+        "fontFamily": "'tight-ui-font'",
         "fontStyle": "normal",
         "speak": "none",
         "fontWeight": "normal",
@@ -6822,7 +6822,7 @@ export default StyleSheet.create({
         "boxSizing": "border-box"
     },
     "ProductList-filter-dropdownToggle-label-icon:before": {
-        "fontFamily": "'squarespace-ui-font'",
+        "fontFamily": "'tight-ui-font'",
         "fontStyle": "normal",
         "speak": "none",
         "fontWeight": "normal",
@@ -14881,7 +14881,7 @@ export default StyleSheet.create({
         "display": "block"
     },
     "sqs-block-archive archive-block-setting-layout-dropdown archive-dropdown-toggle-checkbox:checked~archive-dropdown-toggle-label archive-dropdown-toggle-icon:before": {
-        "fontFamily": "'squarespace-ui-font'",
+        "fontFamily": "'tight-ui-font'",
         "fontStyle": "normal",
         "speak": "none",
         "fontWeight": "normal",
@@ -14928,7 +14928,7 @@ export default StyleSheet.create({
         "boxSizing": "border-box"
     },
     "sqs-block-archive archive-block-setting-layout-dropdown archive-dropdown-toggle-icon:before": {
-        "fontFamily": "'squarespace-ui-font'",
+        "fontFamily": "'tight-ui-font'",
         "fontStyle": "normal",
         "speak": "none",
         "fontWeight": "normal",
@@ -16125,7 +16125,7 @@ export default StyleSheet.create({
     "sqs-block-opentable-v2 a": {
         "textDecoration": "none !important"
     },
-    "sqs-block-opentable-v2 squarespace-opentable-new-age-wrapper": {
+    "sqs-block-opentable-v2 tight-opentable-new-age-wrapper": {
         "background": "rgba(153,153,153,.15)",
         "paddingTop": 30,
         "paddingRight": 30,
@@ -16134,7 +16134,7 @@ export default StyleSheet.create({
         "opacity": 0,
         "transition": "opacity .3s ease-out"
     },
-    "sqs-block-opentable-v2 squarespace-opentable-new-age-wrapper h1": {
+    "sqs-block-opentable-v2 tight-opentable-new-age-wrapper h1": {
         "fontWeight": "normal",
         "textAlign": "center",
         "lineHeight": 1,
@@ -16143,13 +16143,13 @@ export default StyleSheet.create({
         "marginBottom": 30,
         "marginLeft": 0
     },
-    "sqs-block-opentable-v2 squarespace-opentable-new-age-wrapperloading": {
+    "sqs-block-opentable-v2 tight-opentable-new-age-wrapperloading": {
         "minHeight": 270
     },
-    "sqs-block-opentable-v2 squarespace-opentable-new-age-wrapperloaded": {
+    "sqs-block-opentable-v2 tight-opentable-new-age-wrapperloaded": {
         "opacity": 1
     },
-    "sqs-block-opentable-v2 squarespace-opentable-button-wrapper ot-dtp-picker-button": {
+    "sqs-block-opentable-v2 tight-opentable-button-wrapper ot-dtp-picker-button": {
         "color": "#fff",
         "background": "#000",
         "borderRadius": "0px !important",
@@ -16159,40 +16159,40 @@ export default StyleSheet.create({
     "sqs-block-opentable-v2 h1": {
         "color": "#111"
     },
-    "sqs-block-opentable-v2 squarespace-opentable-picker-wrapper": {
+    "sqs-block-opentable-v2 tight-opentable-picker-wrapper": {
         "display": "flex",
         "justifyContent": "space-around"
     },
-    "sqs-block-opentable-v2 squarespace-opentable-picker-wrapper flex": {
+    "sqs-block-opentable-v2 tight-opentable-picker-wrapper flex": {
         "flexGrow": 1
     },
-    "sqs-block-opentable-v2 squarespace-opentable-picker-wrapper flexin-between": {
+    "sqs-block-opentable-v2 tight-opentable-picker-wrapper flexin-between": {
         "flexGrow": "initial",
         "width": 20
     },
-    "sqs-block-opentable-v2 squarespace-opentable-picker-wrapper ot-dtp-picker-selector": {
+    "sqs-block-opentable-v2 tight-opentable-picker-wrapper ot-dtp-picker-selector": {
         "width": "auto",
         "whiteSpace": "nowrap"
     },
-    "sqs-block-opentable-v2 squarespace-opentable-button-wrapper": {
+    "sqs-block-opentable-v2 tight-opentable-button-wrapper": {
         "textAlign": "center",
         "display": "block",
         "marginTop": 30
     },
-    "sqs-block-opentable-v2 squarespace-opentable-button-wrapper ot-button": {
+    "sqs-block-opentable-v2 tight-opentable-button-wrapper ot-button": {
         "float": "none !important",
         "lineHeight": 1
     },
-    "sqs-block-opentable-v2 squarespace-opentable-new-age-wrapperopentable-block-hide-icons ot-dtp-picker-selector-link": {
+    "sqs-block-opentable-v2 tight-opentable-new-age-wrapperopentable-block-hide-icons ot-dtp-picker-selector-link": {
         "paddingLeft": 0.875
     },
-    "sqs-block-opentable-v2 squarespace-opentable-new-age-wrapperopentable-block-hide-icons ot-dtp-picker-selector-link:before": {
+    "sqs-block-opentable-v2 tight-opentable-new-age-wrapperopentable-block-hide-icons ot-dtp-picker-selector-link:before": {
         "display": "none"
     },
-    "sqs-block-opentable-v2 squarespace-opentable-new-age-wrapperopentable-block-hide-title squarespace-ot-title": {
+    "sqs-block-opentable-v2 tight-opentable-new-age-wrapperopentable-block-hide-title tight-ot-title": {
         "display": "none"
     },
-    "sqs-block-opentable-v2 squarespace-opentable-new-age-wrapperopentable-block-hide-powered-by ot-powered-by": {
+    "sqs-block-opentable-v2 tight-opentable-new-age-wrapperopentable-block-hide-powered-by ot-powered-by": {
         "display": "none"
     },
     "form-wrapper field-list": {
@@ -18969,7 +18969,7 @@ export default StyleSheet.create({
         "WebkitFontSmoothing": "antialiased",
         "MozOsxFontSmoothing": "grayscale"
     },
-    "social-squarespace-square:before": {
+    "social-tight-square:before": {
         "fontFamily": "'social-icon-font'",
         "speak": "none",
         "fontStyle": "normal",
@@ -19293,7 +19293,7 @@ export default StyleSheet.create({
         "WebkitFontSmoothing": "antialiased",
         "MozOsxFontSmoothing": "grayscale"
     },
-    "social-squarespace-round:before": {
+    "social-tight-round:before": {
         "fontFamily": "'social-icon-font'",
         "speak": "none",
         "fontStyle": "normal",
@@ -20721,7 +20721,7 @@ export default StyleSheet.create({
         "color": "rgba(0,0,0,.6)",
         "borderColor": "rgba(0,0,0,.15)"
     },
-    "squarespace-social-buttonsinline-style": {
+    "tight-social-buttonsinline-style": {
         "color": "#000",
         "WebkitTransition": "color .15s ease-out",
         "MozTransition": "color .15s ease-out",
@@ -20729,10 +20729,10 @@ export default StyleSheet.create({
         "OTransition": "color .15s ease-out",
         "transition": "color .15s ease-out"
     },
-    "squarespace-social-buttonsinline-style:hover": {
+    "tight-social-buttonsinline-style:hover": {
         "color": "rgba(0,0,0,.5)"
     },
-    "squarespace-social-buttonsinline-style ss-social-button-icon": {
+    "tight-social-buttonsinline-style ss-social-button-icon": {
         "display": "none !important"
     },
     "tweak-quote-block-alignment-left mixin-quote-block-alignment": {
