@@ -1,94 +1,94 @@
  {
    "facebookAppId": "314192535267336",
    "rollups": {
-     "squarespace-announcement-bar": {
-       "css": "//static.squarespace.com/universal/styles-compressed/announcement-bar-d41d8cd98f00b204e9800998ecf8427e-min.css",
-       "js": "//static.squarespace.com/universal/scripts-compressed/announcement-bar-636ce7ceaa3560e8d2d5-min.js"
+     "tight-theme-announcement-bar": {
+       "css": "//cdn.politi.cc/styles/announcement-bar-d41d8cd98f00b204e9800998ecf8427e-min.css",
+       "js": "//cdn.politi.cc/scripts/announcement-bar-636ce7ceaa3560e8d2d5-min.js"
      },
-     "squarespace-audio-player": {
-       "css": "//static.squarespace.com/universal/styles-compressed/audio-player-e1b486594965430889af24c93ffeb509-min.css",
-       "js": "//static.squarespace.com/universal/scripts-compressed/audio-player-a4be5ec629c3b4551f04-min.js"
+     "tight-theme-audio-player": {
+       "css": "//cdn.politi.cc/styles/audio-player-e1b486594965430889af24c93ffeb509-min.css",
+       "js": "//cdn.politi.cc/scripts/audio-player-a4be5ec629c3b4551f04-min.js"
      },
-     "squarespace-blog-collection-list": {
-       "css": "//static.squarespace.com/universal/styles-compressed/blog-collection-list-d41d8cd98f00b204e9800998ecf8427e-min.css",
-       "js": "//static.squarespace.com/universal/scripts-compressed/blog-collection-list-e270582b932269061d11-min.js"
+     "tight-theme-blog-collection-list": {
+       "css": "//cdn.politi.cc/styles/blog-collection-list-d41d8cd98f00b204e9800998ecf8427e-min.css",
+       "js": "//cdn.politi.cc/scripts/blog-collection-list-e270582b932269061d11-min.js"
      },
-     "squarespace-calendar-block-renderer": {
-       "css": "//static.squarespace.com/universal/styles-compressed/calendar-block-renderer-bba726056d2134131ce9d3077c28adbe-min.css",
-       "js": "//static.squarespace.com/universal/scripts-compressed/calendar-block-renderer-e5d8bb63ec08ece52e9c-min.js"
+     "tight-theme-calendar-block-renderer": {
+       "css": "//cdn.politi.cc/styles/calendar-block-renderer-bba726056d2134131ce9d3077c28adbe-min.css",
+       "js": "//cdn.politi.cc/scripts/calendar-block-renderer-e5d8bb63ec08ece52e9c-min.js"
      },
-     "squarespace-chartjs-helpers": {
-       "css": "//static.squarespace.com/universal/styles-compressed/chartjs-helpers-9935a41d63cf08ca108505d288c1712e-min.css",
-       "js": "//static.squarespace.com/universal/scripts-compressed/chartjs-helpers-3f93dfcf406d5cb678dd-min.js"
+     "tight-theme-chartjs-helpers": {
+       "css": "//cdn.politi.cc/styles/chartjs-helpers-9935a41d63cf08ca108505d288c1712e-min.css",
+       "js": "//cdn.politi.cc/scripts/chartjs-helpers-3f93dfcf406d5cb678dd-min.js"
      },
-     "squarespace-comments": {
-       "css": "//static.squarespace.com/universal/styles-compressed/comments-228a7276f159133cc3ea801187c348fa-min.css",
-       "js": "//static.squarespace.com/universal/scripts-compressed/comments-c54fbb72004c5885d111-min.js"
+     "tight-theme-comments": {
+       "css": "//cdn.politi.cc/styles/comments-228a7276f159133cc3ea801187c348fa-min.css",
+       "js": "//cdn.politi.cc/scripts/comments-c54fbb72004c5885d111-min.js"
      },
-     "squarespace-dialog": {
-       "css": "//static.squarespace.com/universal/styles-compressed/dialog-aba41cb3c0853ecd2e2fb2303806d950-min.css",
-       "js": "//static.squarespace.com/universal/scripts-compressed/dialog-6dc3c7051f2023928271-min.js"
+     "tight-theme-dialog": {
+       "css": "//cdn.politi.cc/styles/dialog-aba41cb3c0853ecd2e2fb2303806d950-min.css",
+       "js": "//cdn.politi.cc/scripts/dialog-6dc3c7051f2023928271-min.js"
      },
-     "squarespace-events-collection": {
-       "css": "//static.squarespace.com/universal/styles-compressed/events-collection-bba726056d2134131ce9d3077c28adbe-min.css",
-       "js": "//static.squarespace.com/universal/scripts-compressed/events-collection-37d3fc2391f4c0836d81-min.js"
+     "tight-theme-events-collection": {
+       "css": "//cdn.politi.cc/styles/events-collection-bba726056d2134131ce9d3077c28adbe-min.css",
+       "js": "//cdn.politi.cc/scripts/events-collection-37d3fc2391f4c0836d81-min.js"
      },
-     "squarespace-form-rendering-utils": {
-       "js": "//static.squarespace.com/universal/scripts-compressed/form-rendering-utils-80c1841bb9865ef57ddd-min.js"
+     "tight-theme-form-rendering-utils": {
+       "js": "//cdn.politi.cc/scripts/form-rendering-utils-80c1841bb9865ef57ddd-min.js"
      },
-     "squarespace-gallery-collection-list": {
-       "css": "//static.squarespace.com/universal/styles-compressed/gallery-collection-list-d41d8cd98f00b204e9800998ecf8427e-min.css",
-       "js": "//static.squarespace.com/universal/scripts-compressed/gallery-collection-list-74d89907d358eecbd2d6-min.js"
+     "tight-theme-gallery-collection-list": {
+       "css": "//cdn.politi.cc/styles/gallery-collection-list-d41d8cd98f00b204e9800998ecf8427e-min.css",
+       "js": "//cdn.politi.cc/scripts/gallery-collection-list-74d89907d358eecbd2d6-min.js"
      },
-     "squarespace-image-zoom": {
-       "css": "//static.squarespace.com/universal/styles-compressed/image-zoom-ae974921915aeccaff8ad60c60e19c31-min.css",
-       "js": "//static.squarespace.com/universal/scripts-compressed/image-zoom-7cf5c71c25892a70d17d-min.js"
+     "tight-theme-image-zoom": {
+       "css": "//cdn.politi.cc/styles/image-zoom-ae974921915aeccaff8ad60c60e19c31-min.css",
+       "js": "//cdn.politi.cc/scripts/image-zoom-7cf5c71c25892a70d17d-min.js"
      },
-     "squarespace-pinterest": {
-       "css": "//static.squarespace.com/universal/styles-compressed/pinterest-d41d8cd98f00b204e9800998ecf8427e-min.css",
-       "js": "//static.squarespace.com/universal/scripts-compressed/pinterest-0d0876f2a74f7782d666-min.js"
+     "tight-theme-pinterest": {
+       "css": "//cdn.politi.cc/styles/pinterest-d41d8cd98f00b204e9800998ecf8427e-min.css",
+       "js": "//cdn.politi.cc/scripts/pinterest-0d0876f2a74f7782d666-min.js"
      },
-     "squarespace-popup-overlay": {
-       "css": "//static.squarespace.com/universal/styles-compressed/popup-overlay-b5d0993c85a2b5a604d02091b6b86723-min.css",
-       "js": "//static.squarespace.com/universal/scripts-compressed/popup-overlay-84ea24850b8fff67bddc-min.js"
+     "tight-theme-popup-overlay": {
+       "css": "//cdn.politi.cc/styles/popup-overlay-b5d0993c85a2b5a604d02091b6b86723-min.css",
+       "js": "//cdn.politi.cc/scripts/popup-overlay-84ea24850b8fff67bddc-min.js"
      },
-     "squarespace-product-quick-view": {
-       "css": "//static.squarespace.com/universal/styles-compressed/product-quick-view-e115b32dc09c37fe6f7e98f568e08b74-min.css",
-       "js": "//static.squarespace.com/universal/scripts-compressed/product-quick-view-10c04f1cd690f5344f52-min.js"
+     "tight-theme-product-quick-view": {
+       "css": "//cdn.politi.cc/styles/product-quick-view-e115b32dc09c37fe6f7e98f568e08b74-min.css",
+       "js": "//cdn.politi.cc/scripts/product-quick-view-10c04f1cd690f5344f52-min.js"
      },
-     "squarespace-products-collection-item-v2": {
-       "css": "//static.squarespace.com/universal/styles-compressed/products-collection-item-v2-ae974921915aeccaff8ad60c60e19c31-min.css",
-       "js": "//static.squarespace.com/universal/scripts-compressed/products-collection-item-v2-f6439b49e182854a1d1e-min.js"
+     "tight-theme-products-collection-item-v2": {
+       "css": "//cdn.politi.cc/styles/products-collection-item-v2-ae974921915aeccaff8ad60c60e19c31-min.css",
+       "js": "//cdn.politi.cc/scripts/products-collection-item-v2-f6439b49e182854a1d1e-min.js"
      },
-     "squarespace-products-collection-list-v2": {
-       "css": "//static.squarespace.com/universal/styles-compressed/products-collection-list-v2-ae974921915aeccaff8ad60c60e19c31-min.css",
-       "js": "//static.squarespace.com/universal/scripts-compressed/products-collection-list-v2-6cfcd09f1a5806cd84d8-min.js"
+     "tight-theme-products-collection-list-v2": {
+       "css": "//cdn.politi.cc/styles/products-collection-list-v2-ae974921915aeccaff8ad60c60e19c31-min.css",
+       "js": "//cdn.politi.cc/scripts/products-collection-list-v2-6cfcd09f1a5806cd84d8-min.js"
      },
-     "squarespace-search-page": {
-       "css": "//static.squarespace.com/universal/styles-compressed/search-page-9c747eeaabe96dacfea4932a63336f54-min.css",
-       "js": "//static.squarespace.com/universal/scripts-compressed/search-page-8f94a4ceca02acbcafa7-min.js"
+     "tight-theme-search-page": {
+       "css": "//cdn.politi.cc/styles/search-page-9c747eeaabe96dacfea4932a63336f54-min.css",
+       "js": "//cdn.politi.cc/scripts/search-page-8f94a4ceca02acbcafa7-min.js"
      },
-     "squarespace-search-preview": {
-       "js": "//static.squarespace.com/universal/scripts-compressed/search-preview-86303f4b568f6a0cc480-min.js"
+     "tight-theme-search-preview": {
+       "js": "//cdn.politi.cc/scripts/search-preview-86303f4b568f6a0cc480-min.js"
      },
-     "squarespace-share-buttons": {
-       "js": "//static.squarespace.com/universal/scripts-compressed/share-buttons-09ba7da2bc0e55bf6aca-min.js"
+     "tight-theme-share-buttons": {
+       "js": "//cdn.politi.cc/scripts/share-buttons-09ba7da2bc0e55bf6aca-min.js"
      },
-     "squarespace-simple-liking": {
-       "css": "//static.squarespace.com/universal/styles-compressed/simple-liking-09fa291ec2800c97714f0d157fd0a6ca-min.css",
-       "js": "//static.squarespace.com/universal/scripts-compressed/simple-liking-8331011aa0cfe536a345-min.js"
+     "tight-theme-simple-liking": {
+       "css": "//cdn.politi.cc/styles/simple-liking-09fa291ec2800c97714f0d157fd0a6ca-min.css",
+       "js": "//cdn.politi.cc/scripts/simple-liking-8331011aa0cfe536a345-min.js"
      },
-     "squarespace-social-buttons": {
-       "css": "//static.squarespace.com/universal/styles-compressed/social-buttons-7a696232d1cd101fd62b5f174f9ae6ff-min.css",
-       "js": "//static.squarespace.com/universal/scripts-compressed/social-buttons-88da755553181f6aa296-min.js"
+     "tight-theme-social-buttons": {
+       "css": "//cdn.politi.cc/styles/social-buttons-7a696232d1cd101fd62b5f174f9ae6ff-min.css",
+       "js": "//cdn.politi.cc/scripts/social-buttons-88da755553181f6aa296-min.js"
      },
-     "squarespace-tourdates": {
-       "css": "//static.squarespace.com/universal/styles-compressed/tourdates-d41d8cd98f00b204e9800998ecf8427e-min.css",
-       "js": "//static.squarespace.com/universal/scripts-compressed/tourdates-abbe1b8f68d9f536aea2-min.js"
+     "tight-theme-tourdates": {
+       "css": "//cdn.politi.cc/styles/tourdates-d41d8cd98f00b204e9800998ecf8427e-min.css",
+       "js": "//cdn.politi.cc/scripts/tourdates-abbe1b8f68d9f536aea2-min.js"
      },
-     "squarespace-website-overlays-manager": {
-       "css": "//static.squarespace.com/universal/styles-compressed/website-overlays-manager-d1b0ace5f5af772d643f5a6ce0056946-min.css",
-       "js": "//static.squarespace.com/universal/scripts-compressed/website-overlays-manager-a8903934c02e2509f7c2-min.js"
+     "tight-theme-website-overlays-manager": {
+       "css": "//cdn.politi.cc/styles/website-overlays-manager-d1b0ace5f5af772d643f5a6ce0056946-min.css",
+       "js": "//cdn.politi.cc/scripts/website-overlays-manager-a8903934c02e2509f7c2-min.js"
      }
    },
    "pageType": 2,
@@ -124,9 +124,9 @@
        "2": true
      },
      "logoImageUrl": "//cdn.politi.cc/images/shared/politicc-logo-black.png",
-     "socialLogoImageUrl": "//static1.squarespace.com/static/59711f5703596ed825d63235/t/59714ca7a5790a18c1d18683/1506449772627/",
+     "socialLogoImageUrl": "//cdn.politi.cc/images/shared/politicc-logo-black.png",
      "authenticUrl": "https://politi.cc",
-     "internalUrl": "https://politicc.squarespace.com",
+     "internalUrl": "https://politi.cc",
      "baseUrl": "https://politi.cc",
      "primaryDomain": "politi.cc",
      "sslSetting": 3,
