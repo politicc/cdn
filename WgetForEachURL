@@ -1,34 +1,35 @@
 #!/bin/bash
 # declare an array called array and define 3 vale
 array=(
-"https://politi.cc/assets/ui-icons.svg#hamburger-icon--even"
-"https://politi.cc/assets/ui-icons.svg#hamburger-icon--odd"
-"https://politi.cc/assets/ui-icons.svg#hotdog-icon--even"
-"https://politi.cc/assets/ui-icons.svg#hotdog-icon--odd"
-"https://politi.cc/assets/ui-icons.svg#plus-icon--even"
-"https://politi.cc/assets/ui-icons.svg#plus-icon--odd"
-"https://politi.cc/assets/ui-icons.svg#dots-horizontal-icon--even"
-"https://politi.cc/assets/ui-icons.svg#dots-horizontal-icon--odd"
-"https://politi.cc/assets/ui-icons.svg#dots-vertical-icon--even"
-"https://politi.cc/assets/ui-icons.svg#dots-vertical-icon--odd"
-"https://politi.cc/assets/ui-icons.svg#squares-horizontal-icon--even"
-"https://politi.cc/assets/ui-icons.svg#squares-horizontal-icon--odd"
-"https://politi.cc/assets/ui-icons.svg#squares-vertical-icon--even"
-"https://politi.cc/assets/ui-icons.svg#squares-vertical-icon--odd"
-"https://politi.cc/assets/ui-icons.svg#search-icon"
-"https://politi.cc/assets/ui-icons.svg#close-icon"
-"https://politi.cc/assets/ui-icons.svg#search-icon--small"
-"https://politi.cc/assets/ui-icons.svg#search-icon"
-
-
+'https://use.typekit.net/af/529f2f/00000000000000003b9b05c1/27/l?subset_id=2&fvd=n9&v=3'
+'https://use.typekit.net/af/c0bbc1/000000000000000000010097/27/l?subset_id=2&fvd=n8&v=3'
+'https://use.typekit.net/af/e988b7/0000000000000000000151d6/27/l?subset_id=2&fvd=n4&v=3'
+'https://use.typekit.net/af/5da6f6/000000000000000000010096/27/l?subset_id=2&fvd=n3&v=3'
+'https://use.typekit.net/af/1b8d19/00000000000000000001134a/27/l?subset_id=2&fvd=n4&v=3'
+'https://use.typekit.net/af/e9d809/000000000000000000010091/27/l?subset_id=2&fvd=n7&v=3'
+'https://use.typekit.net/af/57218a/0000000000000000000151d4/27/l?subset_id=2&fvd=n5&v=3'
+'https://use.typekit.net/af/2ca3ce/0000000000000000000151d1/27/l?subset_id=2&fvd=n7&v=3'
+'https://use.typekit.net/af/a7d8a2/0000000000000000000151d3/27/l?subset_id=2&fvd=i4&v=3'
+'https://use.typekit.net/af/ea1070/0000000000000000000151d2/27/l?subset_id=2&fvd=i7&v=3'
+'https://use.typekit.net/af/069586/00000000000000000001008f/27/l?subset_id=2&fvd=n5&v=3'
+'https://use.typekit.net/af/3d72b8/000000000000000000010093/27/l?subset_id=2&fvd=i3&v=3'
+'https://use.typekit.net/af/8906d7/000000000000000000010092/27/l?subset_id=2&fvd=i7&v=3'
+'https://use.typekit.net/af/1787d8/000000000000000000010098/27/l?subset_id=2&fvd=i8&v=3'
+'https://use.typekit.net/af/199318/00000000000000003b9b05bc/27/l?subset_id=2&fvd=n5&v=3'
+'https://use.typekit.net/af/0e7d8f/00000000000000003b9b05bd/27/l?subset_id=2&fvd=i5&v=3'
 )
 
 # array=("$@")
+ count=0
 for i in "${array[@]}"
 do
-	echo $i
+	# echo $i
+	echo  ${count}.ttf
+  count=$(expr $count + 1)
 	#  wget -T $TOUT -q $dl -O $file
 	# wget $i -P scripts/
 	# wget $i -P styles/
-	wget $i -P icons/site/
+	# wget $i -P icons/site/
+	# wget $i.ttf -P fonts/
+	wget ${i} -P fonts/ -O ${count}.ttf
 done
